@@ -1,0 +1,151 @@
+body { 
+  	font-family: 'Poppins', sans-serif;;
+  	margin: 0;
+  }
+
+h1 {
+	color: #cccccc;
+	font-size: 50px;
+	font-weight: normal;
+	margin-bottom: 0;
+}
+
+h2 {
+	color: #cccccc;
+	font-size: 18px;
+	margin-top: 0; 
+}
+
+h3 {
+	text-align: center;
+	font-size: 28px;
+	font-weight: normal;
+	margin-top: 100px;
+}
+
+h4 {
+	text-align: center;
+	font-size: 24px;
+}
+
+p {
+	text-align: center;
+	font-size: 18px;
+}
+
+li {
+	display: inline-block;
+	font-size: 12px;
+	width: 100px;
+	font-weight: bold;
+	margin-top: 30px;
+	padding-top: 8px;
+	padding-bottom: 8px;
+	text-align: center;
+	margin-left: 30px;
+}
+
+.bio {
+	color: #cccccc;
+	font-size: 18px;
+}
+
+.me {
+	height: 175px;
+	border-radius: 100%;
+	border-style: solid;
+	border-color: white;
+	margin-top: 40px;
+}
+
+.about {
+	width: 500px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	margin-bottom: 30px;
+}
+
+.grey {
+	height: 3px;
+	background-color: #919191;
+	border: none;
+	width: 50px;
+}
+
+.about-container {
+	background: url('bg.jpg') no-repeat center center fixed; 
+	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+  	height: 800px;
+}
+
+.purple {
+	background-color: #fff;
+	border-top: 3px dotted #5D44C7;
+	width: 350px;
+	border-bottom: none;
+	border-right: none;
+}
+
+.box {
+	float: left;
+	width: 42.5%;
+	margin-left: 5%;
+	margin-top: 80px;
+}
+
+.clear {
+	clear: both;
+}
+
+.full-width {
+	width: 100%;
+}
+
+.skills-and-tools {
+	max-width: 420px;
+	margin: 40px auto;
+}
+
+.icons {
+	text-align: center;
+}
+
+.icon {
+	margin: 30px 0;
+}
+
+.contact-me {
+	height: 350px;
+	background-color: #202020;
+}
+
+.contact-headline {
+	color: white;
+	padding-top: 30px;
+}
+
+.contact-info {
+	color: white;
+	font-size: 13px;
+	margin-top: 30px;
+}
+
+.contact-link {
+	color: white;
+/*	font-weight: bold;*/
+	font-size: 15px;
+}
+
+.nav-link {
+	color: white;
+	text-decoration: none;
+}
+
+.hire-me {
+	border-style: solid;
+	border-color: white;
+}
